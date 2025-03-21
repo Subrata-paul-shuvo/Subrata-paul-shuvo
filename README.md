@@ -5,7 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subrata-paul-shuvo" alt="subrata-paul-shuvo" /></a> </p>
 
-- 🔭 I’m currently working on **🔹 Designing and developing my portfolio website 🔹 Expanding my knowledge in UI/UX and Frontend Development 🔹 Building engaging digital experiences**
+- 🔭 I’m currently working on **
+🔹 Designing and developing my portfolio website 
+🔹 Expanding my knowledge in UI/UX and Frontend Development 
+🔹 Building engaging digital experiences**
 
 - 🌱 I’m currently learning **a Computer Science and Engineering student, exploring UI/UX design and web development through hands-on projects.**
 
